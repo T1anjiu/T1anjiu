@@ -2,7 +2,7 @@
 
 [![T1anjiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1anjiu&count_private=true&show_icons=true&theme=flag-india)](https://github.com/T1anjiu/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1anjiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1anjiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=T1anjiu)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
