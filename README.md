@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1anjiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=T1anjiu)](https://github.com/LordDashMe/github-contribution-stats/)-->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=T1anjiu)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <br />
 <!--
